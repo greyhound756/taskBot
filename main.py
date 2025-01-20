@@ -4,7 +4,7 @@ from aiogram.filters import CommandStart, Command
 from aiogram.types import Message
 import text
 
-TOKEN = "7821505493:AAGd6BnErc60Z8Vwqw9HYceGvFXYsYBP9BU"
+TOKEN = "YOUR API KEY"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
